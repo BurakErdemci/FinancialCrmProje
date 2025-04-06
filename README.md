@@ -21,7 +21,7 @@ Entity Framework 6.x
 SQL Server
 Windows Forms + Web Forms
 
-Bootstrap 5
+
 
 🚀 Kurulum Adımları
 Projeyi klonlayın:
