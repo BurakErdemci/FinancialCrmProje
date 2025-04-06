@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7cf78a24-e977-4b0c-9650-0d6193bb3b0f).NET Framework tabanlı, Entity Framework destekli bir finansal CRM yönetim sistemi. Tedarikçi, envanter ve satın alma işlemlerini merkezi olarak kontrol etmeyi amaçlar.
+.NET Framework tabanlı, Entity Framework destekli bir finansal CRM yönetim sistemi. Tedarikçi, envanter ve satın alma işlemlerini merkezi olarak kontrol etmeyi amaçlar.
 
 🧰 Özellikler
 ✅ Tedarikçi (Supplier) yönetimi
@@ -42,9 +42,10 @@ Düzenle
 Update-Database
 Projeyi çalıştırın (F5).
 
-
-
 Formlar: 
+
+
+
 ![Login Form](https://github.com/user-attachments/assets/a78697aa-ffd5-47ba-86fe-4ab440a5a113)
 ![Register Form](https://github.com/user-attachments/assets/1728161e-f94c-45c6-acb7-4f3f7267f79c)
 ![BankProcess Form](https://github.com/user-attachments/assets/83baa622-d14c-4342-b634-2927d3ab4229)
